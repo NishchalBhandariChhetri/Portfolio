@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by Nishchal Bhandari Chhetri</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Nishchal Bhandari Chhetri 2025</h3>
+          <h3>Copyright © Nishchal Bhandari Chhetri {year} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
